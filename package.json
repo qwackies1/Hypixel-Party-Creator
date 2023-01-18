@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "discord.js": "^14.7.0",
+    "dotenv": "^16.0.3"
+  },
+  "name": "hypixel-party-creator",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "node src/index.js"
+  },
+  "author": "qwackies",
+  "license": "MIT",
+  "description": ""
+}
